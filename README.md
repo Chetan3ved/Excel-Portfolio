@@ -4,7 +4,7 @@ This repository contains a series of Excel-based data analysis projects designed
 
 ## Projects Included
 
-### 1. [Sales Performance Dashboard](./sales_dashboard)
+### 1. [Sales Performance Dashboard](./Sales_Performance_Dashboard/Sales_Performance_Dashboard.xlsx)
 
 A dynamic sales dashboard built using pivot tables, slicers, and charts. Summarizes revenue by region, category, and sales rep, with interactive filters and KPIs.
 
